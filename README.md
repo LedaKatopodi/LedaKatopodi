@@ -2,7 +2,7 @@
 
 ### My name is Leda/ Λήδα/ 丽达
 
-and here are some stuff about me:
+and here are some facts about me:
 
 &nbsp;
 
