@@ -12,12 +12,6 @@ and here are some facts about me:
 
 💻 but currently on a not-so-undercover research mission posing as a Computational Biologist
 
-🌎 Contrary to logic or biology, I have migrated to colder climates,<br />from Athens, Greece to Boston, MA
-
-🏛️ and I am currently a Research Student and Bioinformatician at the <br />_Ioannis Vlachos Non-Coding Research Lab_ at Harvard Medical School
-
-🦠 My research interests include Epi-genomics/transcriptomics, Cancer Immunology and Immunoinformatics, and Tissue Engineering
-
 <br clear="right"/>
 
 &nbsp;
