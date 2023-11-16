@@ -12,7 +12,7 @@ and here are some facts about me:
 
 💻 but currently on a not-so-undercover research mission posing as a Computational Biologist
 
-🌊 I grew up next to the sea, so I decided to move to the seaside city of Barcelona, Spain for my PhD
+🌊 I grew up next to the sea, so I decided to move to the seaside city of Barcelona, Spain, for my PhD
 
 👩‍🎓 so now I am a PhD student at the [Epitranscriptomics and RNA Dynamics lab](https://www.crg.eu/ca/programmes-groups/novoa-lab), at the Center for Genomic Regulation (CRG).
 
